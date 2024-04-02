@@ -1,6 +1,6 @@
-## OSPF Configuration and Verification in Cisco Packet Tracer
+# OSPF Configuration and Verification in Cisco Packet Tracer
 
-### Introduction
+## Introduction
 This project aims to demonstrate the configuration and verification of OSPF (Open Shortest Path First) routing protocol on Cisco routers. Through a series of guided steps, users will learn how to configure OSPF, influence OSPF behavior using router ID and priority settings, implement load balancing, and verify OSPF operation and connectivity.
 <br />
 <br />
