@@ -23,8 +23,8 @@ This project aims to demonstrate the configuration and verification of OSPF (Ope
   - Network B: 192.168.5.0/24
   - Network C: 192.168.3.0/24
  <br />
+<img width="1280" alt="Capture" src="https://github.com/Pranavnathan23/Configure-and-Verify-OSPF-operation/assets/163876627/e2811dd8-3fe9-4e7e-85af-004b02484727">
 
-<img width="1280" alt="Capture1" src="https://github.com/Pranavnathan23/Configure-and-Verify-OSPF-operation/assets/163876627/3e59a248-23c8-4262-8169-ac2e2005b117">
 
 
   
@@ -34,8 +34,6 @@ This project aims to demonstrate the configuration and verification of OSPF (Ope
 ### 2. Initial Network Traffic Simulation
 - Simulate network traffic between a host on Network A and a laptop on Network B using Packet Tracer.
 - Observe the packet flow and identify any routing issues, such as packet drops due to lack of routing information.
-  <br />
-
 
   
 <br />
